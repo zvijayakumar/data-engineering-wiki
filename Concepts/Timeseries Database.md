@@ -23,6 +23,7 @@ A timeseries database (TSDB) is optimized to store, aggregate and analyze large 
 - Trading platform
 - Stock exchange
 - Real-time ad bidding
+- Monitoring and Observability
 
 ## Popular Timeseries Databases
 
